@@ -33,9 +33,6 @@ payload:
   - DST-PORT,5228
   - DST-PORT,5222
   - DST-PORT,38211
-  # Instagram
-  - DOMAIN-SUFFIX,cdninstagram.com
-  - DOMAIN-SUFFIX,instagram.com
   # Facebook
   - DOMAIN-SUFFIX,messenger.com
   - DOMAIN-SUFFIX,facebook.com
