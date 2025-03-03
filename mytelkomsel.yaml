@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,telkomsel.com
+  - DOMAIN-SUFFIX,tdw.telkomsel.com
   - DOMAIN-SUFFIX,my.telkomsel.com
   - DOMAIN-SUFFIX,tsel.me
   - DOMAIN-SUFFIX,td.telkomsel.com
